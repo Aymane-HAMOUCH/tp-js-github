@@ -15,4 +15,5 @@
     console.log(`le meilleur note est : ${notes[0]}` );
     console.log(`le  no,bre de notes >=10 est : ${noteSup}` );
     
+    
 

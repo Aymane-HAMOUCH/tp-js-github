@@ -1,4 +1,4 @@
-function infoEtudiant(nom,note){
+function infoEtudiant(note){
     if(note>=10){
 return "Admis"
     }
@@ -6,3 +6,5 @@ return "Admis"
         return "Ajournee"
     }
 }
+const test=infoEtudiant(13)
+console.log(test)
